@@ -1,4 +1,5 @@
 #! usr/bin/python3
+# by puz00
 
 # get the start fraction
 numerator = int(input('What is the numerator? '))
